@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "strict": true,
+        "target": "es5",
+        "removeComments": true,
+        "noUnusedLocals":false,
+        "noUnusedParameters":true,
+        "noImplicitAny": true,
+        "strictPropertyInitialization": false,
+        "sourceMap": true,
+        "outFile": "docs/js/main.js"
+    },
+    "include": [
+        "dev/**/*"
+    ]
+}
